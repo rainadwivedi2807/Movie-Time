@@ -1,0 +1,37 @@
+.title1{
+  font-size: 1.2rem;
+  margin-top: 10px;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+}
+
+.image{
+    border-radius:10px;
+    width:280px;
+    height: 280px;
+    aspect-ratio: 1;
+
+}
+
+.image:hover{
+    border:1px solid black;
+    transform: scale(1.05);
+
+}
+
+.info-column{
+  margin-left: 2px;
+}
+
+.year{
+  font-size: 1.2rem;
+  margin-top: 5px;
+  letter-spacing: 1px;
+}
+
+.type{
+  font-size: 1.2rem;
+  margin-top: 5px;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+}

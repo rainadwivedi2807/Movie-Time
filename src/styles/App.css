@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+*,*::before,*::after{
+    margin: 0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Poiret One', 'cursive';
+    color: black;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    background:rgb(99, 152, 185);
+ 
+}
